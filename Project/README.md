@@ -1,13 +1,13 @@
 # Recharging of an electric car on a highway
 
 ## Project Statement
-An electric car has to travel a distance which is slightly longer than the one allowed by its battery capacity: it must stop exactly once for recharging on the way! <br>
+- An electric car has to travel a distance which is slightly longer than the one allowed by its battery capacity: it must stop exactly once for recharging on the way! <br>
 
-There are four road segments on the route, with three charging stations in between: each station has a number of chargers available, and a different loads in number of requests <br>
+- There are four road segments on the route, with three charging stations in between: each station has a number of chargers available, and a different loads in number of requests <br>
 
-Considering a given probability of choosing exactly one of the charging station, compute the average total travelling time <br>
+- Considering a given probability of choosing exactly one of the charging station, compute the average total travelling time <br>
 
-The travelling times of the four segments, is distributed according to the following traces (all times are expressed in minutes).
+- The travelling times of the four segments, is distributed according to the following traces (all times are expressed in minutes).
 
 
 Further details:
