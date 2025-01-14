@@ -17,6 +17,7 @@ Further details:
 - Requests arrive at a rate of 6000 req/min in the first 8 hours
 - Then they will arrive at a rate of 300 req/min for the following 6 days and 16 hours
 - The service will propose a new concert every week
+  
 | Station    | Other traffic [car / hour] | Number of chargers |
 |------------|:---------------------------:|:------------------:|
 | I - II     | 6                          | 4                  |
