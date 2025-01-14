@@ -1,4 +1,4 @@
-%% ANGELO MAXIMILIAN TULBURE 10931652 - A04
+%% ANGELO TULBURE - A04
 clear all;
 
 filename1 = 'Trace1.csv';
