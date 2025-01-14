@@ -1,4 +1,4 @@
-%% ANGELO MAXIMILIAN TULBURE 10931652 - A13
+%% ANGELO TULBURE - A13
 
 % Scenario 1 - close model
 
