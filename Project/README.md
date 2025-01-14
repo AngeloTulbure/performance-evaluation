@@ -39,4 +39,7 @@ After the fitting phase of the given traces, the distributions found were used t
 I considered the motion of the electric car as a closed system, with a single job, where the car once it has completed its course, it is teleported back to the initial position to immediately start another trip.
 The other cars competing for the charger were considered as an open process.
 
+After testing 7 different scenarios, the best stopping probably found was to stop at Charging Station II-III with prob = 1. With these stopping probabilities, the average travelling time is 81,2512 minutes 
+(1 hour and 35 minutes) and its confidential interval is (min: 80,1111, max:82,3914).
+
 For a more detailed solution, have a look at the Excel file present in this folder and at the XXXXXXXXXX link presentazione XXXXXXXX
