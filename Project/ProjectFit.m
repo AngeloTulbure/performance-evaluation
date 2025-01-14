@@ -1,4 +1,4 @@
-%% ANGELO MAXIMILIAN TULBURE 10931652 - PROJECT A
+%% ANGELO TULBURE - PROJECT A
 % Recharging of an electric car on a highway 
 
 clear all;
