@@ -42,4 +42,4 @@ The other cars competing for the charger were considered as an open process.
 After testing 7 different scenarios, the best stopping probably found was to stop at Charging Station II-III with prob = 1. With these stopping probabilities, the average travelling time is 81,2512 minutes 
 (1 hour and 35 minutes) and its confidential interval is (min: 80,1111, max:82,3914).
 
-For a more detailed solution, have a look at the Excel file present in this folder and at the [presentation](https://github.com/user-attachments/files/18414947/Angelo_Tulbure_Project_Presentation.pdf)
+For a more detailed solution, have a look at the Excel file present in this folder and at the [presentation](https://github.com/AngeloTulbure/performance-evaluation/blob/main/Project/Angelo_Tulbure_Project_Presentation.pdf)
