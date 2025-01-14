@@ -1,4 +1,4 @@
-%% ANGELO MAXIMILIAN TULBURE 10931652 - A15
+%% ANGELO TULBURE - A15
 
 S1 = 40;  %sec      %Terminals
 S2 = 50/1000;       %AppServer
