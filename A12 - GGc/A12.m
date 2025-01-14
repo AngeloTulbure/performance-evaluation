@@ -1,4 +1,4 @@
-%% ANGELO MAXIMILIAN TULBURE 10931652 - A12
+%% ANGELO TULBURE - A12
 
 % Performance indices of an G/G/1 queue - 1 server
 lambda = 10;   %jobs/sec  
