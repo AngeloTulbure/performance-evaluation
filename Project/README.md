@@ -19,7 +19,7 @@ Further details:
 - The service will propose a new concert every week
   
 | Station    | Other traffic [car / hour] | Number of chargers |
-|------------|:---------------------------:|:------------------:|
+|------------|:--------------------------:|:------------------:|
 | I - II     | 6                          | 4                  |
 | II - III   | 4                          | 3                  |
 | III - IV   | 5                          | 3                  |
