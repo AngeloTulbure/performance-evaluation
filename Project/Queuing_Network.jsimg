@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <archive xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="ProjectA_10931652_JMT.jsimg" timestamp="Fri Jan 05 22:46:40 CET 2024" xsi:noNamespaceSchemaLocation="Archive.xsd">
-    <sim disableStatisticStop="false" logDecimalSeparator="," logDelimiter=";" logPath="C:\Users\angel\JMT" logReplaceMode="0" maxEvents="-1" maxSamples="10000000" name="ProjectA_10931652_JMT.jsimg" polling="1.0" xsi:noNamespaceSchemaLocation="SIMmodeldefinition.xsd">
+    <sim disableStatisticStop="false" logDecimalSeparator="," logDelimiter=";" logPath="C:\Users\angel\JMT" logReplaceMode="0" maxEvents="-1" maxSamples="10000000" name="Queuing_Network.jsimg" polling="1.0" xsi:noNamespaceSchemaLocation="SIMmodeldefinition.xsd">
         <userClass customers="1" name="ElectricCar" priority="0" referenceSource="Segment I" softDeadline="0.0" type="closed"/>
         <userClass name="Cars I-II" priority="0" referenceSource="Cars I-II" softDeadline="0.0" type="open"/>
         <userClass name="Cars II-III" priority="0" referenceSource="Cars II-III" softDeadline="0.0" type="open"/>
