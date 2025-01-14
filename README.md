@@ -1,4 +1,5 @@
-Project for Performance Evaluation and Applications (Politecnico di Milano, 2023-2024)
+Project for _Performance Evaluation and Applications_ (_Politecnico di Milano_, 2023-2024)
+
 # Performance Evaluation and Applications
 This repository holds all the assignments and the final project given during the course.
 
